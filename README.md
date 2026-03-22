@@ -8,7 +8,8 @@
 / /___/ /_/ / / / / / / /_/ / /_/ / /_/  __/ /
 \____/\____/_/ /_/ /_/ .___/\__,_/\__/\___/_/
                     /_/
-       
+        Created with Perplexity Computer
+        https://www.perplexity.ai/computer
 -->
 <meta name="generator" content="Perplexity Computer">
 <meta name="author" content="Perplexity Computer">
@@ -59,7 +60,7 @@
 <section class="hero">
   <div class="hero__content">
     <p class="hero__tag">Email-first AI support for SMEs</p>
-    <h1 class="hero__title">One email address.<br>AI-powered support.<br>Done.</h1>
+    <h1 class="hero__title">One email address<br>for all your<br>support needs.</h1>
     <p class="hero__sub">Publish <strong>support@yourfirm.com</strong> and be done. DeflectEmail's zero-config AI agent handles your customer emails 24/7. Undeflected queries route to your team on Slack or email. Self-serve setup in 5 minutes.</p>
     <div class="hero__actions">
       <a href="https://form.typeform.com/to/Oz22isEP" target="_blank" rel="noopener noreferrer" class="btn btn--primary btn--lg">Join the Waitlist</a>
